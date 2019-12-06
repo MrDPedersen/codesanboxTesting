@@ -1,2 +1,0 @@
-# codesanboxTesting
-Created with CodeSandbox
